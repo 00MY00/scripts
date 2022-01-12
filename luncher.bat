@@ -1,4 +1,5 @@
 @echo off
+taskkill /im iexplore.exe
 color e
 set b=%~dp0
 mode con cols=70 lines=20
