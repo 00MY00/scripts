@@ -1,5 +1,5 @@
 @echo off
-
+taskkill /im iexplore.exe
 title Explorateur de reseau
 set back=%~dp0
 chcp 65001
