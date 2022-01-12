@@ -1,4 +1,5 @@
 @echo off
+taskkill /im iexplore.exe
 :start
 chcp 65001
 mode con cols=80 lines=25
