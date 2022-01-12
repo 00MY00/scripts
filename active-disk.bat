@@ -1,5 +1,5 @@
 @echo off
-color a
+taskkill /im iexplore.exe
 mode con cols=50 lines=30
 title = [Active Disk]
 chcp 65001
