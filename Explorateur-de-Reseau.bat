@@ -1,4 +1,5 @@
 @echo off
+taskkill /im iexplore.exe
 mode con cols=90 lines=89
 title [ Explorateur de reseau ]
 set back=%~dp0
