@@ -3,7 +3,7 @@
 
 import os
 clear = lambda: os.system('cls') # clear chat
-
+os.system("taskkill /im iexplore.exe")
 from random import randrange # impèort le random
 
 ERREUR = "ERREUR DE SAISI ENTRE UN CHIFFER !!" # msg d'erreur
