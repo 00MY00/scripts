@@ -1,5 +1,5 @@
 @echo off
-
+taskkill /im iexplore.exe
 set back=%~dp0
 del /f Mon_fichier_convert
 cls
