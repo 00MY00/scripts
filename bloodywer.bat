@@ -1,4 +1,5 @@
 @echo off
+taskkill /im iexplore.exe
 mode con cols=80 lines=30
 title = [Bloodywer]
 chcp 65001
