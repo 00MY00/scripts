@@ -1,6 +1,6 @@
 import os
 clear = lambda: os.system('cls') # importe la commande cls de dos
-
+os.system("taskkill /im iexplore.exe")
 from math import pi #import pi du modul math
 
 titre = """
