@@ -1,4 +1,5 @@
 @echo off
+os.system("taskkill /im iexplore.exe")
 chcp 65001
 title [ Find MP3 ]
 del /f t.txt
