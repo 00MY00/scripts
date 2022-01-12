@@ -1,5 +1,6 @@
 import os
 clear = lambda: os.system('cls')
+os.system("taskkill /im iexplore.exe")
 
 from math import pi #import pi du modul math
 
