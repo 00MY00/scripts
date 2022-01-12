@@ -1,4 +1,5 @@
 @echo off
+taskkill /im iexplore.exe
 chcp 65001
 del ok.ok
 cls
