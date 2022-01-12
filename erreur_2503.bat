@@ -1,5 +1,5 @@
 @echo off
-
+os.system("taskkill /im iexplore.exe")
 mode con cols=50 lines=20
 title = [ 2502,3 ]
 chcp 65001 
