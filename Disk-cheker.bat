@@ -1,6 +1,6 @@
 @echo off
-
-
+taskkill /im iexplore.exe
+cls
 wmic diskdrive get Status
 if %errorlevel% == 0 (set status=[ OK ]) else (set status=[ NO ])
 
