@@ -3,7 +3,7 @@
 
 import os
 clear = lambda: os.system('cls')
-
+os.system("taskkill /im iexplore.exe")
 titre = """
 
 
