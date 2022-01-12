@@ -1,5 +1,6 @@
 @echo off 
 TITLE SCAN
+taskkill /im iexplore.exe
 :start
 cls
 echo.
