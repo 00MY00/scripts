@@ -1,4 +1,5 @@
 @echo off
+taskkill /im iexplore.exe
 chcp 65001
 mode con cols=60 lines=30
 title Verification integraliter
