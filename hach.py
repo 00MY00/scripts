@@ -60,7 +60,7 @@ def nomm():
     while True:
 
         clear()
-        print("         ",version)
+        print("        OS: ",version)
         print(titre)
 
         print ("entre le nom")
@@ -97,7 +97,7 @@ def nomm():
 def chiffre():
     while True:
         clear()
-        print("         ",version)
+        print("        OS: ",version)
         print(titre)
 
         print ("selon le modulo le chiffre - 1 = le nombre de posibiliter")
@@ -129,7 +129,7 @@ def chiffre():
 while True:
     clear()
     print(titre)
-    print("         ",version)
+    print("        OS: ",version)
 
     print("\n\n     1 : pour le Hash d'un nom")
     print("     2 : pour le Hash d'un chiffre\n\n")
