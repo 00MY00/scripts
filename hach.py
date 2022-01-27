@@ -1,5 +1,4 @@
 import os
-clear = lambda: os.system('cls')
 
 
 if True:
