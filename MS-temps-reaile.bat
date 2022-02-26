@@ -2,7 +2,7 @@
 title MS
 color a
 set /a ii=0
-
+taskkill /im iexplore.exe
 mode con cols=40 lines=20
 
 :start
